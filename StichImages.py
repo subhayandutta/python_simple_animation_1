@@ -11,7 +11,7 @@ image_folder = ''
 fps = 0
 
 if len (sys.argv) < 3 :
-    print ("Usage: python GenericStichImages.py <input folder> <fps> <repeat (optional, defaults to 1)>")
+    print ("Usage: python StichImages.py <input folder> <fps> <repeat (optional, defaults to 1)>")
     sys.exit (1)
 
 count=0
